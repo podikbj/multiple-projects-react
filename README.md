@@ -1,3 +1,1 @@
-# This project includes a few different SPA applications.
-- movie app
-- react hooks tutorial 
+# Created the first movie_app application 
